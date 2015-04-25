@@ -5,7 +5,7 @@ A JSPM initialised repository with sane defaults.
 ### Features
 
 * Babel for transpilation
-* Simplified Web Starter Kit index page
+* Simplified [Web Starter Kit](https://developers.google.com/web/starter-kit/) index page
 * Main module ready for ES6 imports
 
 ### TODO
