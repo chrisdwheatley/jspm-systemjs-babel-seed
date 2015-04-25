@@ -17,21 +17,23 @@ A JSPM initialised repository with sane defaults.
 
 ### Getting Started
 
-Clone the repository (into a renamed folder if desired)
+Clone the repository (into a renamed directory if desired):
 
 `git clone git@github.com:swirlycheetah/jspm-systemjs-babel-seed.git your-project-name`
 
-`cd` into your folder
+Change to the new directory:
 
 `cd your-project-name`
 
-Install the project dependencies
+Install the project dependencies:
 
 `npm install && jspm install`
 
-Start the server
+Start the server:
 
 `./node_modules/.bin/live-server --open=src`
+
+Navigate to `http://127.0.0.1:8080/src/` if `live-server` did not do so for you.
 
 ### License
 
