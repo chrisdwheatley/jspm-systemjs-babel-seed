@@ -1,7 +1,7 @@
 {
   "name": "jspm-systemjs-babel-seed",
   "version": "0.1.0",
-  "description": "a starter repository using jspm, systemjs & babel",
+  "description": "A JSPM initialised repository with sane defaults.",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
