@@ -17,13 +17,17 @@ A JSPM initialised repository with sane defaults.
 
 ### Getting Started
 
-Clone the repository
+Clone the repository (into a renamed folder if desired)
 
-`git clone git@github.com:swirlycheetah/jspm-systemjs-babel-seed.git <your-project-name>`
+`git clone git@github.com:swirlycheetah/jspm-systemjs-babel-seed.git your-project-name`
+
+`cd` into your folder
+
+`cd your-project-name`
 
 Install the project dependencies
 
-`npm install`
+`npm install && jspm install`
 
 Start the server
 
