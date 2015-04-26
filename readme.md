@@ -1,6 +1,6 @@
-# [JSPM](http://jspm.io/), [SystemJS](https://github.com/systemjs/systemjs), [Babel](http://babeljs.io/) Seed
+# [jspm](http://jspm.io/), [SystemJS](https://github.com/systemjs/systemjs), [Babel](http://babeljs.io/) Seed
 
-A JSPM initialised repository with sane defaults.
+A jspm initialised repository with sane defaults.
 
 ### Features
 
