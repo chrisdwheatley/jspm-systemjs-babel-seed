@@ -1,3 +1,5 @@
-// imports & main module setup here
+import example from './example/example';
 
-export class main {}
+let main = document.querySelector('main');
+
+example(main);
